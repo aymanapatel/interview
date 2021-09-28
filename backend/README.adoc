@@ -1,0 +1,85 @@
+= Backend
+Ayman Patel
+:toc:
+
+
+== Java
+
+=== OOPS Concepts
+
+
+
+=== Generics
+
+=== Multi-threading
+
+
+
+=== Collections Framework
+
+=== Exceptional Handling
+
+=== Stream API
+
+=== Java Module System (Java 9 onwards)
+
+=== Miscellaneous 
+
+==== Java ClassLoader
+
+====  i18n in Java
+
+> Using `Locale` class.
+
+
+== Databases
+
+== RDBMS
+
+=== Internals
+
+==== ACID
+
+==== B-Tree vs LSM Databases
+
+
+
+=== SQL Vendors
+
+==== Postgres
+==== Oracle
+==== MySQL
+
+=== NoSQL
+
+When NOT to use NoSQL
+
+==== Column-oriented DBs
+
+==== Key-Value DBs
+
+==== Document oriented DBs
+
+==== Graph DBs
+
+== ORM
+
+=== JPA
+
+=== Hibernate
+
+=== Anti-patterns
+
+1. `n+1` problem
+2. When to use/not-use `@ManytoOne` and `@OnetoMany` 
+
+== Non-JSON protocols
+
+=== GRPC and Protobuf
+
+=== Avro
+
+== Event Streaming
+
+1. Kafka
+2. Spark
