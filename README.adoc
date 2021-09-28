@@ -1,0 +1,82 @@
+= interview
+Ayman Patel
+:toc:
+
+== DS/Algo
+
+== Frontend
+
+=== Web
+
+==== GraphQL
+
+==== RxJS
+
+
+
+=== React and React Router
+
+==== State management (Flux)
+
+==== VDOM and Fibers
+
+
+==== SSR in React
+
+
+=== Angular and Vue
+
+== Backend
+
+=== Java
+
+=== Non-JSON (GRPC, Avro)
+
+=== Event-streaming
+
+
+=== ORM
+
+
+=== Databases
+
+== FP
+
+
+
+== Design Patterns
+
+=== Gang of Four
+
+==== Creational
+
+==== Structural 
+
+
+==== Behavioural
+
+
+== Cloud and Devops
+
+
+=== Public cloud
+
+==== AWS
+
+==== Azure
+
+==== GCP
+
+
+==== Cloud Foundary (Why it failed)
+
+=== CI/CD
+
+=== IaC
+
+==== Legacy (Puppet, Chef)
+
+==== Terraform
+
+==== Pulumi
+
